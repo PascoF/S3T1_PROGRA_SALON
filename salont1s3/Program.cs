@@ -10,6 +10,8 @@ namespace salont1s3
     {
         static void Main(string[] args)
         {
+            Controlador Controlador = new Controlador();
+            Controlador.Acciones();
         }
     }
 }

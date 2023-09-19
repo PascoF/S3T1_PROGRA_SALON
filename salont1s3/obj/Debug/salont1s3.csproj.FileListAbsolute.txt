@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\S3T1_PROGRA_SALON\salont1s3\bin\Debug\salont1s3.exe.config
+C:\Users\pc\Desktop\S3T1_PROGRA_SALON\salont1s3\bin\Debug\salont1s3.exe
+C:\Users\pc\Desktop\S3T1_PROGRA_SALON\salont1s3\bin\Debug\salont1s3.pdb
+C:\Users\pc\Desktop\S3T1_PROGRA_SALON\salont1s3\obj\Debug\salont1s3.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\S3T1_PROGRA_SALON\salont1s3\obj\Debug\salont1s3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\S3T1_PROGRA_SALON\salont1s3\obj\Debug\salont1s3.exe
+C:\Users\pc\Desktop\S3T1_PROGRA_SALON\salont1s3\obj\Debug\salont1s3.pdb
